@@ -13,7 +13,7 @@ const data = [
     question:
       "I bought 10 chocolates and equally distributed between my 7 friends. How many I am left with ?",
     options: ["10", "0", "3", "1"],
-    correct: 2
+    correct: 3
   }
 ];
 export default data;
